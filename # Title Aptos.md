@@ -72,7 +72,8 @@ https://mathdapp.store/?blockchain=APTOS
 
 This is a world i never new exsisted, DAPPS 
 
-* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
+* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics? funding and validity.
+ With their founders coming from meta they have cradabuility and that is valuable for Aptos. 
 
 * How is your company performing relative to competitors in the same domain?
 
@@ -87,12 +88,15 @@ All while the broader market falls.
 I have yet to find a company who has been able to simplify the system and explain crypto to a grandmother. Similar to how apple makes there products simple to use. I belvie there is a great opurtunity for a companie to simplify crypto. 
 
 * Why do you think that offering this product or service would benefit the company?
-I stil think crypto and even traditional banking use jargon and terminology that is hard for everyday citizens to learn. 
+
+I stil belive crypto and even traditional banking use jargon and terminology that is hard for everyday citizens to learn. 
 
 * What technologies would this additional product or service utilize?
-it would have to invest into an intuitive UI and it would need to be simple and require no coding, It would have to be on a smart phone but still incredbuily secure. So its a tall ask, but the pay out is liklie worth it. 
+
+Aptos would have to invest into an intuitive UI and it would need to be simple and require no coding, It would have to be on a smart phone but still incredbuily secure. So its a tall ask, but the pay out is liklie worth it. 
 
 * Why are these technologies appropriate for your solution?
+
 With broader adoption i belive they can tap into new markets and start to help people insted of makeing just intelectuals and tech junkies rich. 
 
 ## URL's 
